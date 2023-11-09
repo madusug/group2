@@ -1,1 +1,4 @@
 This is the first addition
+
+This is the continuation from last week
+We will be working on git reset too today`
